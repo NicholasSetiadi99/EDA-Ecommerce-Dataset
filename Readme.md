@@ -1,4 +1,6 @@
 ## Introduction
+The purpose of this exercise is to conduct and document an extensive EDA on a mock E-commerce dataset, pointing out aspects such as data validity, consistency, accuracy, as well as several exercise questions done in SQL.
+
 This exercise is done in **MySQL** using the **MySQL Workbench** IDE.
 This exercise will be done using [this Dataset](https://docs.google.com/spreadsheets/d/17NYNRCWHbRI4mtDxCwamudDWDpzQuWk_1x0vsCINYZc/edit#gid=1921694854).
 You may find the following sections below:
